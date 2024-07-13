@@ -1,0 +1,36 @@
+/* img {
+    max-width: 100%;
+} */
+
+
+.player-card {
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ddd;
+  padding: 32px;
+  border-radius: 8px;
+  box-shadow: 4px 4px 8px #ddd;
+}
+
+.player-image {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid green;
+}
+
+.player-name {
+    font-size: 2em;
+  color: green;
+  margin: 0;
+}
+.player-position {
+    font-size: 1.2em;
+  font-weight: 500;
+  margin: 0;
+}
+.player-stats {
+    font-size: 14px;
+    margin-top: 12px;
+  line-height: 0.8;
+}
